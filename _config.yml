@@ -201,6 +201,10 @@ exclude:
 # prose.io config
 prose:
   media: 'img'
+  ignore:
+  	- 404.html
+    - LICENSE
+    - feed.xml
   metadata:
     _posts:
       - name: "layout"
