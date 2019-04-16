@@ -200,7 +200,6 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
   media: 'img'
   metadata:
     _posts:
