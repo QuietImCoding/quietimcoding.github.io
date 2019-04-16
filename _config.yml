@@ -11,13 +11,11 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
-title: Is this thing on?
+title: Montesomething?
 
 # Short description of your site
-description: Wow this is going to be harder than I thought
+description: The exploits of a pi-loving cyberspaceman.
 
 # --- Navigation bar options --- #
 
@@ -73,9 +71,8 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: quietimcoding
+  twitter: monteavocado
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
