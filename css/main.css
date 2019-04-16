@@ -130,6 +130,10 @@ img {
   color: {{ site.navbar-text-col }};
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffffff;
+}
+
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
