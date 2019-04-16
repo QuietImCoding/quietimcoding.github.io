@@ -762,7 +762,7 @@ td.gutter {
 }
 
 .navbar-default button.navbar-toggle[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 /* Tags page */
@@ -784,7 +784,7 @@ td.gutter {
 }
 
 #full-tags-list .tag-entry .entry-date {
-  color: #808080;
+  color: {{ site.heading-color }};
   font-style: italic;
   font-size: 16px;
 }
